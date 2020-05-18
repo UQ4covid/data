@@ -1,0 +1,21 @@
+additional:             [ ExtraSeedsLondon.dat ]
+disease:                ncov
+extractor:              ..\..\tools\output_extractors\only_i_per_ward
+force-overwrite-output: true
+input:                  disease1.csv
+iterator:               ..\..\tools\lockdown\iterate
+max-links:              4194304
+max-nodes:              16384
+nprocs:                 8
+nsteps:                 730
+nthreads:               1
+output:                 output1
+parameters:             march29
+population:             57104043
+repeats:                1
+repository:             C:\CovidSims\MetaWardsData
+seed:                   48517279
+start-date:             2020-05-17
+start-day:              0
+user-variables:         defs\lockdown_states.txt
+UV:                     0.0

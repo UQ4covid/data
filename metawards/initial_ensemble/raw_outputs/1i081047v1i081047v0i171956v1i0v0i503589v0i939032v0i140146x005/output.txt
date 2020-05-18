@@ -1,0 +1,2680 @@
+Using random number seed: 68793161
+First five random numbers equal 50, 41, 52, 57, 53
+Number of threads used equals 1
+Initialise infections...
+Importing a custom iterator from ..\..\tools\lockdown\iterate
+Loaded ..\..\tools\lockdown\iterate from ..\..\tools\lockdown\iterate.py
+Building a custom iterator for <function iterate_custom at 0x000002ADA9A6A948>
+..\..\tools\output_extractors\only_i_per_ward
+Importing a custom extractor from ..\..\tools\output_extractors\only_i_per_ward
+Loaded ..\..\tools\output_extractors\only_i_per_ward from ..\..\tools\output_extractors\only_i_per_ward.py
+<function extract_only_i_per_ward at 0x000002ADA9A6A8B8>
+Building a custom extractor for <function extract_only_i_per_ward at 0x000002ADA9A6A8B8>
+Loading additional seeds from C:\CovidSims\MetaWardsData\extra_seeds\ExtraSeedsLondon.dat...
+(1, 255, 5, None)
+S: 56082077  E: 0  I: 0  R: 0  IW: 0  POPULATION: 56082077
+Simulation date 2020-01-01
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56082077  E: 0  I: 0  R: 0  IW: 0  POPULATION: 56082077
+
+ 0 0
+
+Simulation date 2020-01-02
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+seeding play_infections[0][255] += 5
+S: 56082072  E: 5  I: 0  R: 0  IW: 0  POPULATION: 56082077
+
+ 1 0
+
+Simulation date 2020-01-03
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56082072  E: 3  I: 2  R: 0  IW: 0  POPULATION: 56082077
+
+ 2 5
+
+Simulation date 2020-01-04
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56082070  E: 1  I: 4  R: 2  IW: 2  POPULATION: 56082077
+
+ 3 5
+
+Simulation date 2020-01-05
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56082067  E: 2  I: 4  R: 4  IW: 3  POPULATION: 56082077
+
+ 4 5
+
+Simulation date 2020-01-06
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56082061  E: 5  I: 3  R: 8  IW: 6  POPULATION: 56082077
+
+ 5 6
+
+Simulation date 2020-01-07
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56082052  E: 10  I: 1  R: 14  IW: 8  POPULATION: 56082077
+
+ 6 8
+
+Simulation date 2020-01-08
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56082052  E: 18  I: 2  R: 5  IW: 0  POPULATION: 56082077
+
+ 7 11
+
+Simulation date 2020-01-09
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56082049  E: 14  I: 6  R: 8  IW: 3  POPULATION: 56082077
+
+ 8 20
+
+Simulation date 2020-01-10
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56082043  E: 13  I: 9  R: 12  IW: 5  POPULATION: 56082077
+
+ 9 20
+
+Simulation date 2020-01-11
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56082037  E: 19  I: 6  R: 15  IW: 5  POPULATION: 56082077
+
+ 10 22
+
+Simulation date 2020-01-12
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56082033  E: 23  I: 5  R: 16  IW: 4  POPULATION: 56082077
+
+ 11 25
+
+Simulation date 2020-01-13
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56082024  E: 23  I: 8  R: 22  IW: 9  POPULATION: 56082077
+
+ 12 28
+
+Simulation date 2020-01-14
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56082011  E: 27  I: 9  R: 30  IW: 10  POPULATION: 56082077
+
+ 13 31
+
+Simulation date 2020-01-15
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56081996  E: 33  I: 14  R: 34  IW: 15  POPULATION: 56082077
+
+ 14 36
+
+Simulation date 2020-01-16
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56081969  E: 39  I: 17  R: 52  IW: 20  POPULATION: 56082077
+
+ 15 47
+
+Simulation date 2020-01-17
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56081945  E: 58  I: 23  R: 51  IW: 22  POPULATION: 56082077
+
+ 16 56
+
+Simulation date 2020-01-18
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56081920  E: 73  I: 24  R: 60  IW: 19  POPULATION: 56082077
+
+ 17 81
+
+Simulation date 2020-01-19
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56081895  E: 89  I: 27  R: 66  IW: 19  POPULATION: 56082077
+
+ 18 97
+
+Simulation date 2020-01-20
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56081851  E: 100  I: 33  R: 93  IW: 36  POPULATION: 56082077
+
+ 19 116
+
+Simulation date 2020-01-21
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56081795  E: 129  I: 33  R: 120  IW: 41  POPULATION: 56082077
+
+ 20 133
+
+Simulation date 2020-01-22
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56081740  E: 163  I: 47  R: 127  IW: 36  POPULATION: 56082077
+
+ 21 162
+
+Simulation date 2020-01-23
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56081688  E: 181  I: 71  R: 137  IW: 44  POPULATION: 56082077
+
+ 22 210
+
+Simulation date 2020-01-24
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56081588  E: 197  I: 90  R: 202  IW: 78  POPULATION: 56082077
+
+ 23 252
+
+Simulation date 2020-01-25
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56081510  E: 262  I: 98  R: 207  IW: 71  POPULATION: 56082077
+
+ 24 287
+
+Simulation date 2020-01-26
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56081432  E: 291  I: 120  R: 234  IW: 66  POPULATION: 56082077
+
+ 25 360
+
+Simulation date 2020-01-27
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56081265  E: 323  I: 124  R: 365  IW: 125  POPULATION: 56082077
+
+ 26 411
+
+Simulation date 2020-01-28
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56081084  E: 435  I: 135  R: 423  IW: 147  POPULATION: 56082077
+
+ 27 447
+
+Simulation date 2020-01-29
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56080920  E: 543  I: 168  R: 446  IW: 134  POPULATION: 56082077
+
+ 28 570
+
+Simulation date 2020-01-30
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56080681  E: 614  I: 218  R: 564  IW: 180  POPULATION: 56082077
+
+ 29 711
+
+Simulation date 2020-01-31
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56080380  E: 761  I: 252  R: 684  IW: 235  POPULATION: 56082077
+
+ 30 832
+
+Simulation date 2020-02-01
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56080151  E: 942  I: 292  R: 692  IW: 180  POPULATION: 56082077
+
+ 31 1013
+
+Simulation date 2020-02-02
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56079868  E: 1011  I: 370  R: 828  IW: 229  POPULATION: 56082077
+
+ 32 1234
+
+Simulation date 2020-02-03
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56079400  E: 1113  I: 459  R: 1105  IW: 341  POPULATION: 56082077
+
+ 33 1381
+
+Simulation date 2020-02-04
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56078796  E: 1365  I: 540  R: 1376  IW: 451  POPULATION: 56082077
+
+ 34 1572
+
+Simulation date 2020-02-05
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56078114  E: 1756  I: 589  R: 1618  IW: 518  POPULATION: 56082077
+
+ 35 1905
+
+Simulation date 2020-02-06
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56077429  E: 2120  I: 707  R: 1821  IW: 522  POPULATION: 56082077
+
+ 36 2345
+
+Simulation date 2020-02-07
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56076507  E: 2460  I: 859  R: 2251  IW: 627  POPULATION: 56082077
+
+ 37 2827
+
+Simulation date 2020-02-08
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56075864  E: 2948  I: 1040  R: 2225  IW: 493  POPULATION: 56082077
+
+ 38 3319
+
+Simulation date 2020-02-09
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56075023  E: 3091  I: 1218  R: 2745  IW: 601  POPULATION: 56082077
+
+ 39 3988
+
+Simulation date 2020-02-10
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56073505  E: 3403  I: 1407  R: 3762  IW: 979  POPULATION: 56082077
+
+ 40 4309
+
+Simulation date 2020-02-11
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56071724  E: 4276  I: 1618  R: 4459  IW: 1143  POPULATION: 56082077
+
+ 41 4810
+
+Simulation date 2020-02-12
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56069716  E: 5300  I: 1881  R: 5180  IW: 1266  POPULATION: 56082077
+
+ 42 5894
+
+Simulation date 2020-02-13
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56067442  E: 6372  I: 2250  R: 6013  IW: 1376  POPULATION: 56082077
+
+ 43 7181
+
+Simulation date 2020-02-14
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56064595  E: 7595  I: 2603  R: 7284  IW: 1604  POPULATION: 56082077
+
+ 44 8622
+
+Simulation date 2020-02-15
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56062607  E: 9201  I: 3050  R: 7219  IW: 1323  POPULATION: 56082077
+
+ 45 10198
+
+Simulation date 2020-02-16
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56060401  E: 9524  I: 3822  R: 8330  IW: 1431  POPULATION: 56082077
+
+ 46 12251
+
+Simulation date 2020-02-17
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56055876  E: 10118  I: 4302  R: 11781  IW: 2216  POPULATION: 56082077
+
+ 47 13346
+
+Simulation date 2020-02-18
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56050919  E: 12897  I: 4685  R: 13576  IW: 2321  POPULATION: 56082077
+
+ 48 14420
+
+Simulation date 2020-02-19
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56045393  E: 15681  I: 5417  R: 15586  IW: 2562  POPULATION: 56082077
+
+ 49 17582
+
+Simulation date 2020-02-20
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56039269  E: 18591  I: 6431  R: 17786  IW: 2729  POPULATION: 56082077
+
+ 50 21098
+
+Simulation date 2020-02-21
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56031834  E: 21591  I: 7589  R: 21063  IW: 2973  POPULATION: 56082077
+
+ 51 25022
+
+Simulation date 2020-02-22
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56026581  E: 25301  I: 9101  R: 21094  IW: 2678  POPULATION: 56082077
+
+ 52 29180
+
+Simulation date 2020-02-23
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56020529  E: 26150  I: 10800  R: 24598  IW: 2843  POPULATION: 56082077
+
+ 53 34402
+
+Simulation date 2020-02-24
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 56008061  E: 27755  I: 11947  R: 34314  IW: 3975  POPULATION: 56082077
+
+ 54 36950
+
+Simulation date 2020-02-25
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 55994609  E: 35444  I: 13013  R: 39011  IW: 4178  POPULATION: 56082077
+
+ 55 39702
+
+Simulation date 2020-02-26
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 55979871  E: 42719  I: 15106  R: 44381  IW: 4375  POPULATION: 56082077
+
+ 56 48457
+
+Simulation date 2020-02-27
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 55962998  E: 50144  I: 17953  R: 50982  IW: 4636  POPULATION: 56082077
+
+ 57 57825
+
+Simulation date 2020-02-28
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 55942857  E: 58245  I: 21425  R: 59550  IW: 5038  POPULATION: 56082077
+
+ 58 68097
+
+Simulation date 2020-02-29
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 55929052  E: 68266  I: 25153  R: 59606  IW: 4572  POPULATION: 56082077
+
+ 59 79670
+
+Simulation date 2020-03-01
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 55912875  E: 70256  I: 29439  R: 69507  IW: 4831  POPULATION: 56082077
+
+ 60 93419
+
+Simulation date 2020-03-02
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 55880624  E: 74115  I: 32961  R: 94377  IW: 5999  POPULATION: 56082077
+
+ 61 99695
+
+Simulation date 2020-03-03
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 55844611  E: 93525  I: 35485  R: 108456  IW: 6203  POPULATION: 56082077
+
+ 62 107076
+
+Simulation date 2020-03-04
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 55805986  E: 113411  I: 40135  R: 122545  IW: 6385  POPULATION: 56082077
+
+ 63 129010
+
+Simulation date 2020-03-05
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 55762548  E: 132355  I: 47694  R: 139480  IW: 6664  POPULATION: 56082077
+
+ 64 153546
+
+Simulation date 2020-03-06
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 55710888  E: 153177  I: 55986  R: 162026  IW: 6961  POPULATION: 56082077
+
+ 65 180049
+
+Simulation date 2020-03-07
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 55675885  E: 178490  I: 65536  R: 162166  IW: 6571  POPULATION: 56082077
+
+ 66 209163
+
+Simulation date 2020-03-08
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 55635296  E: 182507  I: 77060  R: 187214  IW: 6849  POPULATION: 56082077
+
+ 67 244026
+
+Simulation date 2020-03-09
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 55553083  E: 191717  I: 85255  R: 252022  IW: 7637  POPULATION: 56082077
+
+ 68 259567
+
+Simulation date 2020-03-10
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 55462202  E: 240773  I: 91062  R: 288040  IW: 7773  POPULATION: 56082077
+
+ 69 276972
+
+Simulation date 2020-03-11
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 55365335  E: 290449  I: 102963  R: 323330  IW: 7867  POPULATION: 56082077
+
+ 70 331835
+
+Simulation date 2020-03-12
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 55255689  E: 337793  I: 121279  R: 367316  IW: 8004  POPULATION: 56082077
+
+ 71 393412
+
+Simulation date 2020-03-13
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 55127574  E: 389782  I: 142713  R: 422008  IW: 8104  POPULATION: 56082077
+
+ 72 459072
+
+Simulation date 2020-03-14
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 55040656  E: 450907  I: 166915  R: 423599  IW: 7922  POPULATION: 56082077
+
+ 73 532495
+
+Simulation date 2020-03-15
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 54939627  E: 460234  I: 194450  R: 487766  IW: 8069  POPULATION: 56082077
+
+ 74 617822
+
+Simulation date 2020-03-16
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 54737527  E: 481334  I: 215637  R: 647579  IW: 8393  POPULATION: 56082077
+
+ 75 654684
+
+Simulation date 2020-03-17
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 54514218  E: 600769  I: 229988  R: 737102  IW: 8444  POPULATION: 56082077
+
+ 76 696971
+
+Simulation date 2020-03-18
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 54277905  E: 720754  I: 259087  R: 824331  IW: 8483  POPULATION: 56082077
+
+ 77 830757
+
+Simulation date 2020-03-19
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 54013108  E: 833385  I: 304355  R: 931229  IW: 8514  POPULATION: 56082077
+
+ 78 979841
+
+Simulation date 2020-03-20
+state 0: scale_rate = 1.0, can_work = 1.0
+Normal working week day
+Sending I per ward to the output stream
+S: 53705610  E: 955001  I: 356604  R: 1064862  IW: 8533  POPULATION: 56082077
+
+ 79 1137740
+
+Simulation date 2020-03-21
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 53511254  E: 1097681  I: 413716  R: 1059426  IW: 8439  POPULATION: 56082077
+
+ 80 1311605
+
+Simulation date 2020-03-22
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 53288066  E: 1104026  I: 476066  R: 1213919  IW: 8497  POPULATION: 56082077
+
+ 81 1511397
+
+Simulation date 2020-03-23
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 53034320  E: 1136994  I: 520987  R: 1389776  IW: 8531  POPULATION: 56082077
+
+ 82 1580092
+
+Simulation date 2020-03-24
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 52759714  E: 1196054  I: 549208  R: 1577101  IW: 8534  POPULATION: 56082077
+
+ 83 1657981
+
+Simulation date 2020-03-25
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 52473713  E: 1265464  I: 576109  R: 1766791  IW: 8537  POPULATION: 56082077
+
+ 84 1745262
+
+Simulation date 2020-03-26
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 52177764  E: 1333671  I: 607142  R: 1963500  IW: 8542  POPULATION: 56082077
+
+ 85 1841573
+
+Simulation date 2020-03-27
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 51869576  E: 1400523  I: 640205  R: 2171773  IW: 8544  POPULATION: 56082077
+
+ 86 1940813
+
+Simulation date 2020-03-28
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 51548874  E: 1468586  I: 673401  R: 2391216  IW: 8547  POPULATION: 56082077
+
+ 87 2040728
+
+Simulation date 2020-03-29
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 51214878  E: 1536025  I: 708376  R: 2622798  IW: 8553  POPULATION: 56082077
+
+ 88 2141987
+
+Simulation date 2020-03-30
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 50868607  E: 1605580  I: 744046  R: 2863844  IW: 8555  POPULATION: 56082077
+
+ 89 2244401
+
+Simulation date 2020-03-31
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 50510176  E: 1675713  I: 778530  R: 3117658  IW: 8555  POPULATION: 56082077
+
+ 90 2349626
+
+Simulation date 2020-04-01
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 50140385  E: 1746578  I: 812919  R: 3382195  IW: 8561  POPULATION: 56082077
+
+ 91 2454243
+
+Simulation date 2020-04-02
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 49759967  E: 1815774  I: 848914  R: 3657422  IW: 8562  POPULATION: 56082077
+
+ 92 2559497
+
+Simulation date 2020-04-03
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 49368936  E: 1883925  I: 884446  R: 3944770  IW: 8561  POPULATION: 56082077
+
+ 93 2664688
+
+Simulation date 2020-04-04
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 48967384  E: 1951557  I: 918984  R: 4244152  IW: 8561  POPULATION: 56082077
+
+ 94 2768371
+
+Simulation date 2020-04-05
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 48555753  E: 2017464  I: 954796  R: 4554064  IW: 8563  POPULATION: 56082077
+
+ 95 2870541
+
+Simulation date 2020-04-06
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 48134073  E: 2082713  I: 989524  R: 4875767  IW: 8563  POPULATION: 56082077
+
+ 96 2972260
+
+Simulation date 2020-04-07
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 47703758  E: 2147187  I: 1023832  R: 5207300  IW: 8564  POPULATION: 56082077
+
+ 97 3072237
+
+Simulation date 2020-04-08
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 47264628  E: 2208315  I: 1057586  R: 5551548  IW: 8564  POPULATION: 56082077
+
+ 98 3171019
+
+Simulation date 2020-04-09
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 46816676  E: 2267966  I: 1090143  R: 5907292  IW: 8564  POPULATION: 56082077
+
+ 99 3265901
+
+Simulation date 2020-04-10
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 46362820  E: 2325004  I: 1122420  R: 6271833  IW: 8563  POPULATION: 56082077
+
+ 100 3358109
+
+Simulation date 2020-04-11
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 45902549  E: 2378831  I: 1154220  R: 6646477  IW: 8563  POPULATION: 56082077
+
+ 101 3447424
+
+Simulation date 2020-04-12
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 45437347  E: 2430607  I: 1182974  R: 7031149  IW: 8563  POPULATION: 56082077
+
+ 102 3533051
+
+Simulation date 2020-04-13
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 44965830  E: 2478585  I: 1210449  R: 7427213  IW: 8565  POPULATION: 56082077
+
+ 103 3613581
+
+Simulation date 2020-04-14
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 44492186  E: 2524126  I: 1236944  R: 7828821  IW: 8564  POPULATION: 56082077
+
+ 104 3689034
+
+Simulation date 2020-04-15
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 44014788  E: 2563240  I: 1261473  R: 8242576  IW: 8565  POPULATION: 56082077
+
+ 105 3761070
+
+Simulation date 2020-04-16
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 43535960  E: 2600168  I: 1285381  R: 8660568  IW: 8564  POPULATION: 56082077
+
+ 106 3824713
+
+Simulation date 2020-04-17
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 43056124  E: 2632675  I: 1306530  R: 9086748  IW: 8564  POPULATION: 56082077
+
+ 107 3885549
+
+Simulation date 2020-04-18
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 42574751  E: 2659777  I: 1326409  R: 9521140  IW: 8562  POPULATION: 56082077
+
+ 108 3939205
+
+Simulation date 2020-04-19
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 42092592  E: 2683674  I: 1343900  R: 9961911  IW: 8565  POPULATION: 56082077
+
+ 109 3986186
+
+Simulation date 2020-04-20
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 41611870  E: 2704482  I: 1358773  R: 10406952  IW: 8563  POPULATION: 56082077
+
+ 110 4027574
+
+Simulation date 2020-04-21
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 41135915  E: 2719176  I: 1372390  R: 10854596  IW: 8564  POPULATION: 56082077
+
+ 111 4063255
+
+Simulation date 2020-04-22
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 40662641  E: 2727863  I: 1382936  R: 11308637  IW: 8562  POPULATION: 56082077
+
+ 112 4091566
+
+Simulation date 2020-04-23
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 40192980  E: 2732806  I: 1390117  R: 11766174  IW: 8564  POPULATION: 56082077
+
+ 113 4110799
+
+Simulation date 2020-04-24
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 39730505  E: 2732788  I: 1395550  R: 12223234  IW: 8565  POPULATION: 56082077
+
+ 114 4122923
+
+Simulation date 2020-04-25
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 39273974  E: 2725874  I: 1398308  R: 12683921  IW: 8563  POPULATION: 56082077
+
+ 115 4128338
+
+Simulation date 2020-04-26
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 38825213  E: 2713736  I: 1399399  R: 13143729  IW: 8561  POPULATION: 56082077
+
+ 116 4124182
+
+Simulation date 2020-04-27
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 38383720  E: 2696706  I: 1396852  R: 13604799  IW: 8564  POPULATION: 56082077
+
+ 117 4113135
+
+Simulation date 2020-04-28
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 37953134  E: 2674147  I: 1391944  R: 14062852  IW: 8565  POPULATION: 56082077
+
+ 118 4093558
+
+Simulation date 2020-04-29
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 37530727  E: 2643526  I: 1385189  R: 14522635  IW: 8565  POPULATION: 56082077
+
+ 119 4066091
+
+Simulation date 2020-04-30
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 37120599  E: 2611519  I: 1374280  R: 14975679  IW: 8563  POPULATION: 56082077
+
+ 120 4028715
+
+Simulation date 2020-05-01
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 36721402  E: 2571998  I: 1360856  R: 15427821  IW: 8564  POPULATION: 56082077
+
+ 121 3985799
+
+Simulation date 2020-05-02
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 36333218  E: 2528831  I: 1344749  R: 15875279  IW: 8562  POPULATION: 56082077
+
+ 122 3932854
+
+Simulation date 2020-05-03
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 35957426  E: 2481763  I: 1326310  R: 16316578  IW: 8563  POPULATION: 56082077
+
+ 123 3873580
+
+Simulation date 2020-05-04
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 35595869  E: 2431428  I: 1303492  R: 16751288  IW: 8563  POPULATION: 56082077
+
+ 124 3808073
+
+Simulation date 2020-05-05
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 35248469  E: 2374596  I: 1280115  R: 17178897  IW: 8563  POPULATION: 56082077
+
+ 125 3734920
+
+Simulation date 2020-05-06
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 34915172  E: 2314242  I: 1254429  R: 17598234  IW: 8561  POPULATION: 56082077
+
+ 126 3654711
+
+Simulation date 2020-05-07
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 34595997  E: 2249858  I: 1225359  R: 18010863  IW: 8562  POPULATION: 56082077
+
+ 127 3568671
+
+Simulation date 2020-05-08
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 34290308  E: 2183141  I: 1194112  R: 18414516  IW: 8561  POPULATION: 56082077
+
+ 128 3475217
+
+Simulation date 2020-05-09
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 33998329  E: 2112647  I: 1163258  R: 18807843  IW: 8558  POPULATION: 56082077
+
+ 129 3377253
+
+Simulation date 2020-05-10
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 33719451  E: 2041033  I: 1131405  R: 19190188  IW: 8558  POPULATION: 56082077
+
+ 130 3275905
+
+Simulation date 2020-05-11
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 33454121  E: 1969682  I: 1094561  R: 19563713  IW: 8556  POPULATION: 56082077
+
+ 131 3172438
+
+Simulation date 2020-05-12
+Sending I per ward to the output stream
+state 1: scale_rate = 0.939032, can_work = 0.0
+S: 33203836  E: 1896517  I: 1057976  R: 19923748  IW: 8560  POPULATION: 56082077
+
+ 132 3064243
+
+Simulation date 2020-05-13
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 32530839  E: 1820299  I: 1022267  R: 20708672  IW: 8582  POPULATION: 56082077
+
+ 133 2954493
+
+Simulation date 2020-05-14
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 31893225  E: 2180604  I: 984289  R: 21023959  IW: 8584  POPULATION: 56082077
+
+ 134 2842566
+
+Simulation date 2020-05-15
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 31294806  E: 2442911  I: 1021529  R: 21322831  IW: 8578  POPULATION: 56082077
+
+ 135 3164893
+
+Simulation date 2020-05-16
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 30687758  E: 2621230  I: 1116388  R: 21656701  IW: 8586  POPULATION: 56082077
+
+ 136 3464440
+
+Simulation date 2020-05-17
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 30038969  E: 2776393  I: 1217962  R: 22048753  IW: 8586  POPULATION: 56082077
+
+ 137 3737618
+
+Simulation date 2020-05-18
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 29349456  E: 2948921  I: 1309042  R: 22474658  IW: 8583  POPULATION: 56082077
+
+ 138 3994355
+
+Simulation date 2020-05-19
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 28627616  E: 3131548  I: 1396043  R: 22926870  IW: 8582  POPULATION: 56082077
+
+ 139 4257963
+
+Simulation date 2020-05-20
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 27881580  E: 3313956  I: 1488496  R: 23398045  IW: 8584  POPULATION: 56082077
+
+ 140 4527591
+
+Simulation date 2020-05-21
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 27110155  E: 3490552  I: 1579707  R: 23901663  IW: 8587  POPULATION: 56082077
+
+ 141 4802452
+
+Simulation date 2020-05-22
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 26321694  E: 3661515  I: 1671745  R: 24427123  IW: 8587  POPULATION: 56082077
+
+ 142 5070259
+
+Simulation date 2020-05-23
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 25514600  E: 3820210  I: 1761277  R: 24985990  IW: 8588  POPULATION: 56082077
+
+ 143 5333260
+
+Simulation date 2020-05-24
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 24697415  E: 3971479  I: 1847890  R: 25565293  IW: 8587  POPULATION: 56082077
+
+ 144 5581487
+
+Simulation date 2020-05-25
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 23874438  E: 4105338  I: 1930637  R: 26171664  IW: 8587  POPULATION: 56082077
+
+ 145 5819369
+
+Simulation date 2020-05-26
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 23048704  E: 4222335  I: 2008005  R: 26803033  IW: 8588  POPULATION: 56082077
+
+ 146 6035975
+
+Simulation date 2020-05-27
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 22224953  E: 4322821  I: 2077174  R: 27457129  IW: 8587  POPULATION: 56082077
+
+ 147 6230340
+
+Simulation date 2020-05-28
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 21407572  E: 4403495  I: 2139411  R: 28131599  IW: 8586  POPULATION: 56082077
+
+ 148 6399995
+
+Simulation date 2020-05-29
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 20601903  E: 4464374  I: 2192788  R: 28823012  IW: 8586  POPULATION: 56082077
+
+ 149 6542906
+
+Simulation date 2020-05-30
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 19811454  E: 4501966  I: 2236922  R: 29531735  IW: 8586  POPULATION: 56082077
+
+ 150 6657162
+
+Simulation date 2020-05-31
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 19040501  E: 4518640  I: 2270313  R: 30252623  IW: 8588  POPULATION: 56082077
+
+ 151 6738888
+
+Simulation date 2020-06-01
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 18290058  E: 4511887  I: 2293667  R: 30986465  IW: 8586  POPULATION: 56082077
+
+ 152 6788953
+
+Simulation date 2020-06-02
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 17563532  E: 4485995  I: 2305623  R: 31726927  IW: 8587  POPULATION: 56082077
+
+ 153 6805554
+
+Simulation date 2020-06-03
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 16863624  E: 4440368  I: 2308495  R: 32469590  IW: 8586  POPULATION: 56082077
+
+ 154 6791618
+
+Simulation date 2020-06-04
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 16190219  E: 4377869  I: 2297633  R: 33216356  IW: 8586  POPULATION: 56082077
+
+ 155 6748863
+
+Simulation date 2020-06-05
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 15545071  E: 4299027  I: 2276221  R: 33961758  IW: 8586  POPULATION: 56082077
+
+ 156 6675502
+
+Simulation date 2020-06-06
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 14930327  E: 4205069  I: 2247206  R: 34699475  IW: 8587  POPULATION: 56082077
+
+ 157 6575248
+
+Simulation date 2020-06-07
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 14345616  E: 4097048  I: 2210771  R: 35428642  IW: 8587  POPULATION: 56082077
+
+ 158 6452275
+
+Simulation date 2020-06-08
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 13789364  E: 3977293  I: 2165308  R: 36150112  IW: 8586  POPULATION: 56082077
+
+ 159 6307819
+
+Simulation date 2020-06-09
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 13262466  E: 3850745  I: 2112310  R: 36856556  IW: 8584  POPULATION: 56082077
+
+ 160 6142601
+
+Simulation date 2020-06-10
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 12763922  E: 3716148  I: 2053632  R: 37548375  IW: 8586  POPULATION: 56082077
+
+ 161 5963055
+
+Simulation date 2020-06-11
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 12292430  E: 3575498  I: 1991650  R: 38222499  IW: 8584  POPULATION: 56082077
+
+ 162 5769780
+
+Simulation date 2020-06-12
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 11849484  E: 3432136  I: 1925485  R: 38874972  IW: 8585  POPULATION: 56082077
+
+ 163 5567148
+
+Simulation date 2020-06-13
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 11431812  E: 3285200  I: 1856412  R: 39508653  IW: 8587  POPULATION: 56082077
+
+ 164 5357621
+
+Simulation date 2020-06-14
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 11039852  E: 3137880  I: 1783732  R: 40120613  IW: 8583  POPULATION: 56082077
+
+ 165 5141612
+
+Simulation date 2020-06-15
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 10673256  E: 2989640  I: 1709990  R: 40709191  IW: 8583  POPULATION: 56082077
+
+ 166 4921612
+
+Simulation date 2020-06-16
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 10330006  E: 2843147  I: 1634734  R: 41274190  IW: 8581  POPULATION: 56082077
+
+ 167 4699630
+
+Simulation date 2020-06-17
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 10008872  E: 2696927  I: 1558850  R: 41817428  IW: 8579  POPULATION: 56082077
+
+ 168 4477881
+
+Simulation date 2020-06-18
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 9710112  E: 2554724  I: 1484002  R: 42333239  IW: 8578  POPULATION: 56082077
+
+ 169 4255777
+
+Simulation date 2020-06-19
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 9430391  E: 2413785  I: 1409882  R: 42828019  IW: 8573  POPULATION: 56082077
+
+ 170 4038726
+
+Simulation date 2020-06-20
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 9169735  E: 2278211  I: 1335950  R: 43298181  IW: 8570  POPULATION: 56082077
+
+ 171 3823667
+
+Simulation date 2020-06-21
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 8927114  E: 2147360  I: 1263766  R: 43743837  IW: 8557  POPULATION: 56082077
+
+ 172 3614161
+
+Simulation date 2020-06-22
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 8701484  E: 2021400  I: 1193423  R: 44165770  IW: 8535  POPULATION: 56082077
+
+ 173 3411126
+
+Simulation date 2020-06-23
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 8492550  E: 1899844  I: 1124999  R: 44564684  IW: 8530  POPULATION: 56082077
+
+ 174 3214823
+
+Simulation date 2020-06-24
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 8299064  E: 1781895  I: 1059683  R: 44941435  IW: 8521  POPULATION: 56082077
+
+ 175 3024843
+
+Simulation date 2020-06-25
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 8119688  E: 1668779  I: 996638  R: 45296972  IW: 8491  POPULATION: 56082077
+
+ 176 2841578
+
+Simulation date 2020-06-26
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 7953702  E: 1560923  I: 936032  R: 45631420  IW: 8482  POPULATION: 56082077
+
+ 177 2665417
+
+Simulation date 2020-06-27
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 7800880  E: 1458920  I: 877550  R: 45944727  IW: 8460  POPULATION: 56082077
+
+ 178 2496955
+
+Simulation date 2020-06-28
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 7659049  E: 1360567  I: 821902  R: 46240559  IW: 8416  POPULATION: 56082077
+
+ 179 2336470
+
+Simulation date 2020-06-29
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 7527867  E: 1268678  I: 768094  R: 46517438  IW: 8379  POPULATION: 56082077
+
+ 180 2182469
+
+Simulation date 2020-06-30
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 7406765  E: 1181998  I: 716129  R: 46777185  IW: 8340  POPULATION: 56082077
+
+ 181 2036772
+
+Simulation date 2020-07-01
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 7294575  E: 1099639  I: 668982  R: 47018881  IW: 8281  POPULATION: 56082077
+
+ 182 1898127
+
+Simulation date 2020-07-02
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 7192281  E: 1022556  I: 623507  R: 47243733  IW: 8193  POPULATION: 56082077
+
+ 183 1768621
+
+Simulation date 2020-07-03
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 7098070  E: 948569  I: 580457  R: 47454981  IW: 8187  POPULATION: 56082077
+
+ 184 1646063
+
+Simulation date 2020-07-04
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 7010914  E: 879347  I: 540790  R: 47651026  IW: 8089  POPULATION: 56082077
+
+ 185 1529026
+
+Simulation date 2020-07-05
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6930889  E: 814782  I: 501785  R: 47834621  IW: 7992  POPULATION: 56082077
+
+ 186 1420137
+
+Simulation date 2020-07-06
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6856746  E: 754293  I: 465551  R: 48005487  IW: 7882  POPULATION: 56082077
+
+ 187 1316567
+
+Simulation date 2020-07-07
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6788845  E: 698423  I: 431834  R: 48162975  IW: 7762  POPULATION: 56082077
+
+ 188 1219844
+
+Simulation date 2020-07-08
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6726171  E: 646079  I: 400206  R: 48309621  IW: 7684  POPULATION: 56082077
+
+ 189 1130257
+
+Simulation date 2020-07-09
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6668358  E: 597214  I: 370397  R: 48446108  IW: 7577  POPULATION: 56082077
+
+ 190 1046285
+
+Simulation date 2020-07-10
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6615450  E: 552183  I: 342419  R: 48572025  IW: 7440  POPULATION: 56082077
+
+ 191 967611
+
+Simulation date 2020-07-11
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6566987  E: 510121  I: 316553  R: 48688416  IW: 7250  POPULATION: 56082077
+
+ 192 894602
+
+Simulation date 2020-07-12
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6522014  E: 470804  I: 292731  R: 48796528  IW: 7149  POPULATION: 56082077
+
+ 193 826674
+
+Simulation date 2020-07-13
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6481202  E: 434979  I: 270079  R: 48895817  IW: 6973  POPULATION: 56082077
+
+ 194 763535
+
+Simulation date 2020-07-14
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6443490  E: 401291  I: 248985  R: 48988311  IW: 6842  POPULATION: 56082077
+
+ 195 705058
+
+Simulation date 2020-07-15
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6409044  E: 370168  I: 230124  R: 49072741  IW: 6634  POPULATION: 56082077
+
+ 196 650276
+
+Simulation date 2020-07-16
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6377136  E: 341176  I: 212218  R: 49151547  IW: 6545  POPULATION: 56082077
+
+ 197 600292
+
+Simulation date 2020-07-17
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6347915  E: 314332  I: 195877  R: 49223953  IW: 6298  POPULATION: 56082077
+
+ 198 553394
+
+Simulation date 2020-07-18
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6321048  E: 289460  I: 180753  R: 49290816  IW: 6160  POPULATION: 56082077
+
+ 199 510209
+
+Simulation date 2020-07-19
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6296445  E: 266419  I: 166960  R: 49352253  IW: 5958  POPULATION: 56082077
+
+ 200 470213
+
+Simulation date 2020-07-20
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6273525  E: 245084  I: 153762  R: 49409706  IW: 5808  POPULATION: 56082077
+
+ 201 433379
+
+Simulation date 2020-07-21
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6252589  E: 225824  I: 141815  R: 49461849  IW: 5652  POPULATION: 56082077
+
+ 202 398846
+
+Simulation date 2020-07-22
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6233366  E: 208007  I: 130298  R: 49510406  IW: 5462  POPULATION: 56082077
+
+ 203 367639
+
+Simulation date 2020-07-23
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6215876  E: 191371  I: 120046  R: 49554784  IW: 5290  POPULATION: 56082077
+
+ 204 338305
+
+Simulation date 2020-07-24
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6199425  E: 175974  I: 110352  R: 49596326  IW: 5139  POPULATION: 56082077
+
+ 205 311417
+
+Simulation date 2020-07-25
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6184493  E: 162144  I: 101442  R: 49633998  IW: 4859  POPULATION: 56082077
+
+ 206 286326
+
+Simulation date 2020-07-26
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6170956  E: 149274  I: 93245  R: 49668602  IW: 4736  POPULATION: 56082077
+
+ 207 263586
+
+Simulation date 2020-07-27
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6158210  E: 137422  I: 85690  R: 49700755  IW: 4558  POPULATION: 56082077
+
+ 208 242519
+
+Simulation date 2020-07-28
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6146515  E: 126155  I: 79514  R: 49729893  IW: 4383  POPULATION: 56082077
+
+ 209 223112
+
+Simulation date 2020-07-29
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6135789  E: 116300  I: 73239  R: 49756749  IW: 4221  POPULATION: 56082077
+
+ 210 205669
+
+Simulation date 2020-07-30
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6125800  E: 107115  I: 67177  R: 49781985  IW: 4048  POPULATION: 56082077
+
+ 211 189539
+
+Simulation date 2020-07-31
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6116892  E: 98611  I: 61761  R: 49804813  IW: 3839  POPULATION: 56082077
+
+ 212 174292
+
+Simulation date 2020-08-01
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6108766  E: 90468  I: 57066  R: 49825777  IW: 3664  POPULATION: 56082077
+
+ 213 160372
+
+Simulation date 2020-08-02
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6101154  E: 82961  I: 52550  R: 49845412  IW: 3499  POPULATION: 56082077
+
+ 214 147534
+
+Simulation date 2020-08-03
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6094043  E: 76124  I: 48504  R: 49863406  IW: 3403  POPULATION: 56082077
+
+ 215 135511
+
+Simulation date 2020-08-04
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6087583  E: 70120  I: 44563  R: 49879811  IW: 3270  POPULATION: 56082077
+
+ 216 124628
+
+Simulation date 2020-08-05
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6081587  E: 64485  I: 40814  R: 49895191  IW: 3104  POPULATION: 56082077
+
+ 217 114683
+
+Simulation date 2020-08-06
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6076247  E: 59379  I: 37371  R: 49909080  IW: 2915  POPULATION: 56082077
+
+ 218 105299
+
+Simulation date 2020-08-07
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6071252  E: 54630  I: 34205  R: 49921990  IW: 2753  POPULATION: 56082077
+
+ 219 96750
+
+Simulation date 2020-08-08
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6066680  E: 50270  I: 31392  R: 49933735  IW: 2671  POPULATION: 56082077
+
+ 220 88835
+
+Simulation date 2020-08-09
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6062513  E: 46227  I: 28981  R: 49944356  IW: 2551  POPULATION: 56082077
+
+ 221 81662
+
+Simulation date 2020-08-10
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6058654  E: 42419  I: 26655  R: 49954349  IW: 2353  POPULATION: 56082077
+
+ 222 75208
+
+Simulation date 2020-08-11
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6055021  E: 38973  I: 24517  R: 49963566  IW: 2295  POPULATION: 56082077
+
+ 223 69074
+
+Simulation date 2020-08-12
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6051764  E: 35865  I: 22543  R: 49971905  IW: 2151  POPULATION: 56082077
+
+ 224 63490
+
+Simulation date 2020-08-13
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6048657  E: 32920  I: 20798  R: 49979702  IW: 2080  POPULATION: 56082077
+
+ 225 58408
+
+Simulation date 2020-08-14
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6045831  E: 30393  I: 19130  R: 49986723  IW: 1969  POPULATION: 56082077
+
+ 226 53718
+
+Simulation date 2020-08-15
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6043285  E: 28141  I: 17417  R: 49993234  IW: 1801  POPULATION: 56082077
+
+ 227 49523
+
+Simulation date 2020-08-16
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6040803  E: 25744  I: 16123  R: 49999407  IW: 1750  POPULATION: 56082077
+
+ 228 45558
+
+Simulation date 2020-08-17
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6038614  E: 23771  I: 14974  R: 50004718  IW: 1579  POPULATION: 56082077
+
+ 229 41867
+
+Simulation date 2020-08-18
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6036571  E: 21819  I: 13861  R: 50009826  IW: 1521  POPULATION: 56082077
+
+ 230 38745
+
+Simulation date 2020-08-19
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6034722  E: 20164  I: 12629  R: 50014562  IW: 1424  POPULATION: 56082077
+
+ 231 35680
+
+Simulation date 2020-08-20
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6032948  E: 18561  I: 11558  R: 50019010  IW: 1358  POPULATION: 56082077
+
+ 232 32793
+
+Simulation date 2020-08-21
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6031408  E: 17177  I: 10638  R: 50022854  IW: 1234  POPULATION: 56082077
+
+ 233 30119
+
+Simulation date 2020-08-22
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6029970  E: 15695  I: 9815  R: 50026597  IW: 1166  POPULATION: 56082077
+
+ 234 27815
+
+Simulation date 2020-08-23
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6028576  E: 14406  I: 9133  R: 50029962  IW: 1107  POPULATION: 56082077
+
+ 235 25510
+
+Simulation date 2020-08-24
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6027342  E: 13366  I: 8424  R: 50032945  IW: 1023  POPULATION: 56082077
+
+ 236 23539
+
+Simulation date 2020-08-25
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6026159  E: 12280  I: 7774  R: 50035864  IW: 1004  POPULATION: 56082077
+
+ 237 21790
+
+Simulation date 2020-08-26
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6025070  E: 11261  I: 7193  R: 50038553  IW: 920  POPULATION: 56082077
+
+ 238 20054
+
+Simulation date 2020-08-27
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6024049  E: 10390  I: 6624  R: 50041014  IW: 871  POPULATION: 56082077
+
+ 239 18454
+
+Simulation date 2020-08-28
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6023132  E: 9624  I: 6122  R: 50043199  IW: 795  POPULATION: 56082077
+
+ 240 17014
+
+Simulation date 2020-08-29
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6022252  E: 8918  I: 5554  R: 50045353  IW: 767  POPULATION: 56082077
+
+ 241 15746
+
+Simulation date 2020-08-30
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6021428  E: 8242  I: 5149  R: 50047258  IW: 723  POPULATION: 56082077
+
+ 242 14472
+
+Simulation date 2020-08-31
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6020701  E: 7639  I: 4744  R: 50048993  IW: 646  POPULATION: 56082077
+
+ 243 13391
+
+Simulation date 2020-09-01
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6020074  E: 7095  I: 4362  R: 50050546  IW: 555  POPULATION: 56082077
+
+ 244 12383
+
+Simulation date 2020-09-02
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6019476  E: 6458  I: 4063  R: 50052080  IW: 533  POPULATION: 56082077
+
+ 245 11457
+
+Simulation date 2020-09-03
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6018890  E: 6013  I: 3694  R: 50053480  IW: 540  POPULATION: 56082077
+
+ 246 10521
+
+Simulation date 2020-09-04
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6018399  E: 5563  I: 3413  R: 50054702  IW: 453  POPULATION: 56082077
+
+ 247 9707
+
+Simulation date 2020-09-05
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6017902  E: 5122  I: 3153  R: 50055900  IW: 452  POPULATION: 56082077
+
+ 248 8976
+
+Simulation date 2020-09-06
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6017461  E: 4780  I: 2865  R: 50056971  IW: 406  POPULATION: 56082077
+
+ 249 8275
+
+Simulation date 2020-09-07
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6017069  E: 4407  I: 2619  R: 50057982  IW: 370  POPULATION: 56082077
+
+ 250 7645
+
+Simulation date 2020-09-08
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6016701  E: 4008  I: 2513  R: 50058855  IW: 343  POPULATION: 56082077
+
+ 251 7026
+
+Simulation date 2020-09-09
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6016344  E: 3660  I: 2348  R: 50059725  IW: 339  POPULATION: 56082077
+
+ 252 6521
+
+Simulation date 2020-09-10
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6015965  E: 3384  I: 2132  R: 50060596  IW: 352  POPULATION: 56082077
+
+ 253 6008
+
+Simulation date 2020-09-11
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6015645  E: 3151  I: 1968  R: 50061313  IW: 303  POPULATION: 56082077
+
+ 254 5516
+
+Simulation date 2020-09-12
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6015365  E: 2962  I: 1807  R: 50061943  IW: 264  POPULATION: 56082077
+
+ 255 5119
+
+Simulation date 2020-09-13
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6015109  E: 2761  I: 1616  R: 50062591  IW: 243  POPULATION: 56082077
+
+ 256 4769
+
+Simulation date 2020-09-14
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6014883  E: 2524  I: 1531  R: 50063139  IW: 219  POPULATION: 56082077
+
+ 257 4377
+
+Simulation date 2020-09-15
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6014664  E: 2298  I: 1454  R: 50063661  IW: 204  POPULATION: 56082077
+
+ 258 4055
+
+Simulation date 2020-09-16
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6014464  E: 2111  I: 1332  R: 50064170  IW: 192  POPULATION: 56082077
+
+ 259 3752
+
+Simulation date 2020-09-17
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6014299  E: 1941  I: 1227  R: 50064610  IW: 155  POPULATION: 56082077
+
+ 260 3443
+
+Simulation date 2020-09-18
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6014123  E: 1776  I: 1120  R: 50065058  IW: 169  POPULATION: 56082077
+
+ 261 3168
+
+Simulation date 2020-09-19
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6013956  E: 1629  I: 1042  R: 50065450  IW: 157  POPULATION: 56082077
+
+ 262 2896
+
+Simulation date 2020-09-20
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6013810  E: 1528  I: 953  R: 50065786  IW: 141  POPULATION: 56082077
+
+ 263 2671
+
+Simulation date 2020-09-21
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6013675  E: 1412  I: 874  R: 50066116  IW: 131  POPULATION: 56082077
+
+ 264 2481
+
+Simulation date 2020-09-22
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6013547  E: 1307  I: 818  R: 50066405  IW: 123  POPULATION: 56082077
+
+ 265 2286
+
+Simulation date 2020-09-23
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6013430  E: 1204  I: 753  R: 50066690  IW: 113  POPULATION: 56082077
+
+ 266 2125
+
+Simulation date 2020-09-24
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6013301  E: 1112  I: 698  R: 50066966  IW: 123  POPULATION: 56082077
+
+ 267 1957
+
+Simulation date 2020-09-25
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6013193  E: 1053  I: 639  R: 50067192  IW: 103  POPULATION: 56082077
+
+ 268 1810
+
+Simulation date 2020-09-26
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6013094  E: 1006  I: 562  R: 50067415  IW: 97  POPULATION: 56082077
+
+ 269 1692
+
+Simulation date 2020-09-27
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6013000  E: 910  I: 548  R: 50067619  IW: 94  POPULATION: 56082077
+
+ 270 1568
+
+Simulation date 2020-09-28
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6012927  E: 846  I: 521  R: 50067783  IW: 71  POPULATION: 56082077
+
+ 271 1458
+
+Simulation date 2020-09-29
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6012848  E: 771  I: 501  R: 50067957  IW: 78  POPULATION: 56082077
+
+ 272 1367
+
+Simulation date 2020-09-30
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6012766  E: 718  I: 465  R: 50068128  IW: 82  POPULATION: 56082077
+
+ 273 1272
+
+Simulation date 2020-10-01
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6012706  E: 686  I: 430  R: 50068255  IW: 58  POPULATION: 56082077
+
+ 274 1183
+
+Simulation date 2020-10-02
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6012639  E: 629  I: 397  R: 50068412  IW: 66  POPULATION: 56082077
+
+ 275 1116
+
+Simulation date 2020-10-03
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6012578  E: 591  I: 349  R: 50068559  IW: 60  POPULATION: 56082077
+
+ 276 1026
+
+Simulation date 2020-10-04
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6012524  E: 555  I: 311  R: 50068687  IW: 53  POPULATION: 56082077
+
+ 277 940
+
+Simulation date 2020-10-05
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6012476  E: 506  I: 298  R: 50068797  IW: 48  POPULATION: 56082077
+
+ 278 866
+
+Simulation date 2020-10-06
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6012434  E: 469  I: 287  R: 50068887  IW: 41  POPULATION: 56082077
+
+ 279 804
+
+Simulation date 2020-10-07
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6012399  E: 434  I: 274  R: 50068970  IW: 35  POPULATION: 56082077
+
+ 280 756
+
+Simulation date 2020-10-08
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6012352  E: 378  I: 264  R: 50069083  IW: 47  POPULATION: 56082077
+
+ 281 708
+
+Simulation date 2020-10-09
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6012298  E: 374  I: 230  R: 50069175  IW: 51  POPULATION: 56082077
+
+ 282 642
+
+Simulation date 2020-10-10
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6012256  E: 373  I: 188  R: 50069260  IW: 42  POPULATION: 56082077
+
+ 283 604
+
+Simulation date 2020-10-11
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6012222  E: 362  I: 178  R: 50069315  IW: 33  POPULATION: 56082077
+
+ 284 561
+
+Simulation date 2020-10-12
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6012194  E: 331  I: 171  R: 50069381  IW: 28  POPULATION: 56082077
+
+ 285 540
+
+Simulation date 2020-10-13
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6012166  E: 297  I: 172  R: 50069442  IW: 27  POPULATION: 56082077
+
+ 286 502
+
+Simulation date 2020-10-14
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6012144  E: 265  I: 180  R: 50069488  IW: 20  POPULATION: 56082077
+
+ 287 469
+
+Simulation date 2020-10-15
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6012119  E: 233  I: 179  R: 50069546  IW: 25  POPULATION: 56082077
+
+ 288 445
+
+Simulation date 2020-10-16
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6012088  E: 215  I: 151  R: 50069623  IW: 31  POPULATION: 56082077
+
+ 289 412
+
+Simulation date 2020-10-17
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6012069  E: 214  I: 135  R: 50069659  IW: 18  POPULATION: 56082077
+
+ 290 366
+
+Simulation date 2020-10-18
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6012045  E: 189  I: 126  R: 50069717  IW: 23  POPULATION: 56082077
+
+ 291 349
+
+Simulation date 2020-10-19
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6012022  E: 184  I: 114  R: 50069757  IW: 22  POPULATION: 56082077
+
+ 292 315
+
+Simulation date 2020-10-20
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011997  E: 169  I: 105  R: 50069806  IW: 25  POPULATION: 56082077
+
+ 293 298
+
+Simulation date 2020-10-21
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011976  E: 165  I: 100  R: 50069836  IW: 21  POPULATION: 56082077
+
+ 294 274
+
+Simulation date 2020-10-22
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011954  E: 163  I: 90  R: 50069870  IW: 22  POPULATION: 56082077
+
+ 295 265
+
+Simulation date 2020-10-23
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011943  E: 158  I: 83  R: 50069893  IW: 10  POPULATION: 56082077
+
+ 296 253
+
+Simulation date 2020-10-24
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011934  E: 149  I: 76  R: 50069918  IW: 9  POPULATION: 56082077
+
+ 297 241
+
+Simulation date 2020-10-25
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011927  E: 132  I: 76  R: 50069942  IW: 7  POPULATION: 56082077
+
+ 298 225
+
+Simulation date 2020-10-26
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011921  E: 112  I: 73  R: 50069971  IW: 6  POPULATION: 56082077
+
+ 299 208
+
+Simulation date 2020-10-27
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011905  E: 89  I: 78  R: 50070005  IW: 16  POPULATION: 56082077
+
+ 300 185
+
+Simulation date 2020-10-28
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011894  E: 93  I: 68  R: 50070022  IW: 11  POPULATION: 56082077
+
+ 301 167
+
+Simulation date 2020-10-29
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011886  E: 88  I: 51  R: 50070052  IW: 8  POPULATION: 56082077
+
+ 302 161
+
+Simulation date 2020-10-30
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011875  E: 80  I: 53  R: 50070069  IW: 10  POPULATION: 56082077
+
+ 303 139
+
+Simulation date 2020-10-31
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011866  E: 80  I: 46  R: 50070085  IW: 9  POPULATION: 56082077
+
+ 304 133
+
+Simulation date 2020-11-01
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011855  E: 75  I: 41  R: 50070106  IW: 11  POPULATION: 56082077
+
+ 305 126
+
+Simulation date 2020-11-02
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011846  E: 70  I: 48  R: 50070113  IW: 9  POPULATION: 56082077
+
+ 306 116
+
+Simulation date 2020-11-03
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011841  E: 68  I: 43  R: 50070125  IW: 5  POPULATION: 56082077
+
+ 307 118
+
+Simulation date 2020-11-04
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011832  E: 62  I: 35  R: 50070148  IW: 9  POPULATION: 56082077
+
+ 308 111
+
+Simulation date 2020-11-05
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011826  E: 58  I: 38  R: 50070155  IW: 6  POPULATION: 56082077
+
+ 309 97
+
+Simulation date 2020-11-06
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011822  E: 49  I: 36  R: 50070170  IW: 4  POPULATION: 56082077
+
+ 310 96
+
+Simulation date 2020-11-07
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011813  E: 45  I: 33  R: 50070186  IW: 9  POPULATION: 56082077
+
+ 311 85
+
+Simulation date 2020-11-08
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011812  E: 47  I: 27  R: 50070191  IW: 1  POPULATION: 56082077
+
+ 312 78
+
+Simulation date 2020-11-09
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011803  E: 41  I: 23  R: 50070210  IW: 9  POPULATION: 56082077
+
+ 313 74
+
+Simulation date 2020-11-10
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011797  E: 44  I: 17  R: 50070219  IW: 6  POPULATION: 56082077
+
+ 314 64
+
+Simulation date 2020-11-11
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011794  E: 47  I: 13  R: 50070223  IW: 3  POPULATION: 56082077
+
+ 315 61
+
+Simulation date 2020-11-12
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011790  E: 42  I: 16  R: 50070229  IW: 4  POPULATION: 56082077
+
+ 316 60
+
+Simulation date 2020-11-13
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011785  E: 38  I: 23  R: 50070231  IW: 5  POPULATION: 56082077
+
+ 317 58
+
+Simulation date 2020-11-14
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011783  E: 37  I: 21  R: 50070236  IW: 2  POPULATION: 56082077
+
+ 318 61
+
+Simulation date 2020-11-15
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011778  E: 31  I: 23  R: 50070245  IW: 4  POPULATION: 56082077
+
+ 319 58
+
+Simulation date 2020-11-16
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011774  E: 28  I: 21  R: 50070254  IW: 4  POPULATION: 56082077
+
+ 320 54
+
+Simulation date 2020-11-17
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011773  E: 29  I: 15  R: 50070260  IW: 1  POPULATION: 56082077
+
+ 321 49
+
+Simulation date 2020-11-18
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011772  E: 25  I: 12  R: 50070268  IW: 1  POPULATION: 56082077
+
+ 322 44
+
+Simulation date 2020-11-19
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011769  E: 22  I: 13  R: 50070273  IW: 3  POPULATION: 56082077
+
+ 323 37
+
+Simulation date 2020-11-20
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011769  E: 20  I: 16  R: 50070272  IW: 0  POPULATION: 56082077
+
+ 324 35
+
+Simulation date 2020-11-21
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011765  E: 16  I: 15  R: 50070281  IW: 4  POPULATION: 56082077
+
+ 325 36
+
+Simulation date 2020-11-22
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011763  E: 19  I: 8  R: 50070287  IW: 2  POPULATION: 56082077
+
+ 326 31
+
+Simulation date 2020-11-23
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011760  E: 20  I: 7  R: 50070290  IW: 3  POPULATION: 56082077
+
+ 327 27
+
+Simulation date 2020-11-24
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011760  E: 19  I: 8  R: 50070290  IW: 0  POPULATION: 56082077
+
+ 328 27
+
+Simulation date 2020-11-25
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011759  E: 17  I: 7  R: 50070294  IW: 1  POPULATION: 56082077
+
+ 329 27
+
+Simulation date 2020-11-26
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011757  E: 14  I: 8  R: 50070298  IW: 2  POPULATION: 56082077
+
+ 330 24
+
+Simulation date 2020-11-27
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011753  E: 12  I: 8  R: 50070304  IW: 3  POPULATION: 56082077
+
+ 331 22
+
+Simulation date 2020-11-28
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011752  E: 13  I: 9  R: 50070303  IW: 1  POPULATION: 56082077
+
+ 332 20
+
+Simulation date 2020-11-29
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011750  E: 14  I: 7  R: 50070306  IW: 2  POPULATION: 56082077
+
+ 333 22
+
+Simulation date 2020-11-30
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011748  E: 15  I: 4  R: 50070310  IW: 2  POPULATION: 56082077
+
+ 334 21
+
+Simulation date 2020-12-01
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011748  E: 14  I: 6  R: 50070309  IW: 0  POPULATION: 56082077
+
+ 335 19
+
+Simulation date 2020-12-02
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011747  E: 11  I: 9  R: 50070310  IW: 1  POPULATION: 56082077
+
+ 336 20
+
+Simulation date 2020-12-03
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011744  E: 10  I: 7  R: 50070316  IW: 3  POPULATION: 56082077
+
+ 337 20
+
+Simulation date 2020-12-04
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011741  E: 12  I: 6  R: 50070318  IW: 3  POPULATION: 56082077
+
+ 338 17
+
+Simulation date 2020-12-05
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011741  E: 14  I: 2  R: 50070320  IW: 0  POPULATION: 56082077
+
+ 339 18
+
+Simulation date 2020-12-06
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011741  E: 11  I: 4  R: 50070321  IW: 0  POPULATION: 56082077
+
+ 340 16
+
+Simulation date 2020-12-07
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011739  E: 9  I: 6  R: 50070323  IW: 2  POPULATION: 56082077
+
+ 341 15
+
+Simulation date 2020-12-08
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011737  E: 8  I: 8  R: 50070324  IW: 2  POPULATION: 56082077
+
+ 342 15
+
+Simulation date 2020-12-09
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011734  E: 8  I: 7  R: 50070328  IW: 3  POPULATION: 56082077
+
+ 343 16
+
+Simulation date 2020-12-10
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011734  E: 9  I: 6  R: 50070328  IW: 0  POPULATION: 56082077
+
+ 344 15
+
+Simulation date 2020-12-11
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011731  E: 9  I: 4  R: 50070333  IW: 3  POPULATION: 56082077
+
+ 345 15
+
+Simulation date 2020-12-12
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011730  E: 12  I: 4  R: 50070331  IW: 1  POPULATION: 56082077
+
+ 346 13
+
+Simulation date 2020-12-13
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011729  E: 12  I: 1  R: 50070335  IW: 1  POPULATION: 56082077
+
+ 347 16
+
+Simulation date 2020-12-14
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011729  E: 11  I: 3  R: 50070334  IW: 0  POPULATION: 56082077
+
+ 348 13
+
+Simulation date 2020-12-15
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011729  E: 7  I: 6  R: 50070335  IW: 0  POPULATION: 56082077
+
+ 349 14
+
+Simulation date 2020-12-16
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011727  E: 4  I: 8  R: 50070338  IW: 2  POPULATION: 56082077
+
+ 350 13
+
+Simulation date 2020-12-17
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011727  E: 6  I: 4  R: 50070340  IW: 0  POPULATION: 56082077
+
+ 351 12
+
+Simulation date 2020-12-18
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011724  E: 5  I: 3  R: 50070345  IW: 2  POPULATION: 56082077
+
+ 352 10
+
+Simulation date 2020-12-19
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011724  E: 6  I: 4  R: 50070343  IW: 0  POPULATION: 56082077
+
+ 353 8
+
+Simulation date 2020-12-20
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011724  E: 6  I: 3  R: 50070344  IW: 0  POPULATION: 56082077
+
+ 354 10
+
+Simulation date 2020-12-21
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011724  E: 5  I: 1  R: 50070347  IW: 0  POPULATION: 56082077
+
+ 355 9
+
+Simulation date 2020-12-22
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011724  E: 5  I: 1  R: 50070347  IW: 0  POPULATION: 56082077
+
+ 356 6
+
+Simulation date 2020-12-23
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011724  E: 3  I: 3  R: 50070347  IW: 0  POPULATION: 56082077
+
+ 357 6
+
+Simulation date 2020-12-24
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011724  E: 3  I: 2  R: 50070348  IW: 0  POPULATION: 56082077
+
+ 358 6
+
+Simulation date 2020-12-25
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011723  E: 2  I: 2  R: 50070350  IW: 1  POPULATION: 56082077
+
+ 359 5
+
+Simulation date 2020-12-26
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011723  E: 2  I: 2  R: 50070350  IW: 0  POPULATION: 56082077
+
+ 360 4
+
+Simulation date 2020-12-27
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011723  E: 0  I: 4  R: 50070350  IW: 0  POPULATION: 56082077
+
+ 361 4
+
+Simulation date 2020-12-28
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011722  E: 0  I: 2  R: 50070353  IW: 1  POPULATION: 56082077
+
+ 362 4
+
+Simulation date 2020-12-29
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011722  E: 1  I: 1  R: 50070353  IW: 0  POPULATION: 56082077
+
+ 363 2
+
+Simulation date 2020-12-30
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011722  E: 1  I: 0  R: 50070354  IW: 0  POPULATION: 56082077
+
+ 364 2
+
+Simulation date 2020-12-31
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011722  E: 1  I: 0  R: 50070354  IW: 0  POPULATION: 56082077
+
+ 365 1
+
+Simulation date 2021-01-01
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011722  E: 0  I: 1  R: 50070354  IW: 0  POPULATION: 56082077
+
+ 366 1
+
+Simulation date 2021-01-02
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011722  E: 0  I: 1  R: 50070354  IW: 0  POPULATION: 56082077
+
+ 367 1
+
+Simulation date 2021-01-03
+Sending I per ward to the output stream
+state 2: scale_rate = 0.991455578672, can_work = 1.0
+S: 6011722  E: 0  I: 0  R: 50070355  IW: 0  POPULATION: 56082077
+
+ 368 1
+
+Infection died ... Ending on day 369
