@@ -16,8 +16,8 @@ The design for this run is detailed in the example here (https://github.com/UQ4c
 
 The design was processed as follows:
 
-python <uq_base>\tools\make_design\uq3a.py design.csv <uq_base>\model_config\metawards\limits.csv inputs\uq3a_out.csv -f
-python <uq_base>\tools\make_design\uq3b.py inputs\uq3a_out.csv inputs\disease.csv -f
+uq4metawards-uq3a inputs\design.csv <uq_base>\model_config\metawards\limits.csv inputs\uq3a_out.csv -f
+uq4metawards-uq3b inputs\uq3a_out.csv inputs\disease.csv -f
 
 Where <uq_base> is the base path to the UQ4Covid directory
 
@@ -35,7 +35,7 @@ The raw_outputs folder contains all of the output data from MetaWards. Each run 
 
 The index file was created with the following command:
 
-python <uq_base>\tools\make_design\uq4.py inputs\disease.csv raw_outputs data\uq4.csv -f
+uq4metawards-uq4 inputs\disease.csv raw_outputs data\uq4.csv -f
 
 Where <uq_base> is the base path to the UQ4Covid directory
 
