@@ -15,4 +15,4 @@ rem Note: to prevent spamming the repo, the output folder has been changed to a 
 
 if not exist ..\..\..\test md ..\..\..\test
 
-metawards -d ncov -o ..\..\..\test --force-overwrite-output --input inputs\disease.csv -a ExtraSeedsLondon.dat --extractor ..\..\..\uq4covid\model_config\metawards\only_i_per_ward -u ..\..\..\uq4covid\model_config\metawards\lockdown_states.txt --iterator ..\..\..\uq4covid\model_config\metawards\iterate --start-date 2020/01/01
+metawards -d ncov -o ..\..\..\test --force-overwrite-output --input inputs\disease.csv -a ExtraSeedsLondon.dat --extractor ..\..\..\uq4covid\model_config\metawards\only_i_per_ward -u ..\..\..\uq4covid\model_config\metawards\lockdown_states.txt --iterator ..\..\..\uq4covid\model_config\metawards\iterate --start-date 2020/01/01 --theme simple
