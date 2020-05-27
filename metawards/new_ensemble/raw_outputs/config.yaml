@@ -1,0 +1,22 @@
+additional:             [ ExtraSeedsLondon.dat ]
+disease:                ncov
+extractor:              ../../../uq4covid/model_config/metawards/only_i_per_ward
+force-overwrite-output: true
+input:                  inputs/disease.csv
+iterator:               ../../../uq4covid/model_config/metawards/iterate
+max-links:              4194304
+max-nodes:              16384
+nprocs:                 24
+nsteps:                 730
+nthreads:               1
+output:                 raw_outputs
+parameters:             march29
+population:             57104043
+repeats:                [ 1 ]
+repository:             /home/tj/Documents/covid/MetaWardsData
+seed:                   62865680
+start-date:             2020-01-01
+start-day:              0
+theme:                  simple
+user-variables:         ../../../uq4covid/model_config/metawards/lockdown_states.txt
+UV:                     0.0
