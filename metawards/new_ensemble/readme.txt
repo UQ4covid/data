@@ -1,6 +1,4 @@
-This is the initial ensemble prepared for release from UQ4Covid.
-
-TODO: Add a better description here (link to the vignette from Danny)
+This is an alternative initial ensemble prepared for release from UQ4Covid.
 
 Description:
 ------------
@@ -12,7 +10,9 @@ raw_outputs: Raw data from the model
 Design:
 -------
 
-The design for this run is a maximin LHS with multiple repeats per input.
+The design for this run is a 50 point maximin LHS with 20 repeats per input.
+There is a further 10 point maximin LHS with 20 repeats per input appended to 
+the bottom of the design to use as a validation data set.
 
 The design was processed as follows:
 
