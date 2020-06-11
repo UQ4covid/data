@@ -5,10 +5,9 @@ rem This assumes that the data repo and the uq4covid repo are in the same folder
 
 if not exist "data" md "data"
 
-rem Sort the input files
+rem Call the pre-processor to fix the inputs for metawards
 
-uq4metawards-uq3a inputs\design.csv ..\..\..\uq4covid\model_config\metawards\limits.csv inputs\uq3a_out.csv -f
-uq4metawards-uq3b inputs\uq3a_out.csv inputs\disease.csv -f
+uq4metawards-pre inputs\design.csv ..\..\..\uq4covid\model_config\metawards\limits.csv inputs\disease.csv -e -f
 
 rem Call metawards
 rem Note: to prevent spamming the repo, the output folder has been changed to a local one here, you'll need to change this
