@@ -14,16 +14,21 @@ The design for this run is detailed in the example [here](https://github.com/UQ4
 
 The design was processed using the `uq4metawards` tools with the following command line script:
 
-<pre>uq4metawards-pre inputs\design.csv <uq_base>\model_config\metawards\limits.csv inputs\disease.csv -e -f</pre>
+<pre>uq4metawards-pre inputs\design.csv inputs\limits.csv inputs\disease.csv -e -f</pre>
 
-Where `<uq_base>` is the base path to the UQ4Covid directory. The switches `-e` and `-f` create the epidemiology file and overwrite existing design files respectively.
+Where `limits.csv` is a file containing the interval for each parameter. The switches `-e` and `-f` create the epidemiology file and overwrite existing `disease.csv` respectively. If the tools are unavailable or cannot be run on your system, then you will be unable to reproduce this file without using the specific formulation for each parameter.
 
 Inputs:
 -------
 
-Design file can be found here: `inputs\design.csv`
-Transformed epidemiological variables: `disease_epidemiology.csv`
-MetaWards disease input file: `inputs\disease.csv`
+- `constants.txt`: Variables which are held constant per experiment run
+- `design.csv`: The design hypercube that describes the experiments to run
+- `disease.csv`: The input file for MetaWards which describes the disease model for each experiment
+- `disease_epidemiology.csv`: Each experiment scaled into epidemiological ranges
+- `iterate.py`: MetaWards iterator plugin that defines how the lock-down is modelled
+- `limits.csv`: Ranges for each design input
+- `only_i_per_ward.py`: MetaWards  extractor plugin that defines the output data format
+- `seeds.dat`: Initial infection seeds to being the spread of the disease
 
 Outputs:
 --------
@@ -33,9 +38,9 @@ The `raw_outputs` folder contains all of the output data from MetaWards. Each ru
 Making plots from MetaWards:
 ----------------------------
 
-The summary files can create plots from MetaWards if required by running the following commands (replace <output folder> with your destination folder)
+The summary files can create plots from MetaWards if required by running the following commands (replace `output_folder` with your destination folder)
 
-<pre>metawards-plot -i raw_outputs\ -o <output folder></pre>
+<pre>metawards-plot -i raw_outputs\ -o output_folder</pre>
 
 Processed data:
 ---------------
