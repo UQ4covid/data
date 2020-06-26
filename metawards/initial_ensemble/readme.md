@@ -12,11 +12,11 @@ Design:
 
 The design for this run is detailed in the example [here](https://github.com/UQ4covid/uq4covid.github.io/blob/master/vignettes/metawards_kextendedLHC.md)
 
-The design was processed using the `uq4metawards` tools with the following command line script:
+The design was processed using the pre-processor tool found in the base folder as `pre.py` with the following command line script:
 
-<pre>uq4metawards-pre inputs\design.csv inputs\limits.csv inputs\disease.csv -e -f</pre>
+<pre>python pre.py inputs\design.csv inputs\limits.csv inputs\disease.csv -e -f</pre>
 
-Where `limits.csv` is a file containing the interval for each parameter. The switches `-e` and `-f` create the epidemiology file and overwrite existing `disease.csv` respectively. If the tools are unavailable or cannot be run on your system, then you will be unable to reproduce this file without using the specific formulation for each parameter.
+Where `limits.csv` is a file containing the interval for each parameter. The switches `-e` and `-f` create the epidemiology file and overwrite any existing `disease.csv` respectively. Specific formulations for each parameter can be found in the function signature `transform_epidemiological_to_disease` which develops the beta and progress values from the epidemiological inputs.
 
 Inputs:
 -------
