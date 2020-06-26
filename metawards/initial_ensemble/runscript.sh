@@ -1,13 +1,8 @@
 #!/bin/bash
 
-## This assumes uq4metawards is installed
-## This assumes that the data repo and the uq4covid repo are in the same folder
-
-mkdir -p data
-
 ## Call the pre-processor to fix the inputs for metawards
 
-uq4metawards-pre inputs/design.csv inputs/limits.csv inputs/disease.csv -e -f
+python pre.py inputs\design.csv inputs\limits.csv inputs\disease.csv -e -f
 
 ## Call metawards
 ## Note: to prevent spamming the repo, the output folder has been changed to a local one here, you'll need to change this
